@@ -17,3 +17,19 @@ The main objectives of the project include:
 
 3.  Creation of a clean & well organised project repository including all standard git repository items such as a README along with documentation of all research undetaken & code developed as part of this project.
 
+## Jupyter Notebook
+
+Note: all descriptive & programming objectives of the project have been fully complete within the interactive Jupyter Notebook environment, please refer to the Tasks windpower.ipynb within this repository.
+
+The notebook is assiocated with the Ipython kernal and therfore all code has been written & runs in Python.
+
+## Python Libraries
+
+List of Python Packages & Libraries used within the project:
+
+- Pandas, [pandas.pydata.org](https://pandas.pydata.org/)
+- Seaborn, [seaborn.pydata.org](https://seaborn.pydata.org/)
+- Matplotlib, [matplotlib.org](https://matplotlib.org/)
+- NumPy, [numpy.org](https://numpy.org/)
+- scikit-learn, [scikit-learn.org](https://scikit-learn.org/stable/)
+
